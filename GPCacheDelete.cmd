@@ -1,5 +1,5 @@
 @echo off
-REM GPCacheDelete by smeggysmeg, https://github.com/smeggysmeg/GPCacheDelete
+REM GPCacheDelete by Erik Lentz, https://github.com/ErikLentz/GPCacheDelete
 DEL /S /F /Q "%ALLUSERSPROFILE%"\Application Data\Microsoft\Group Policy\History\*.*"
 REG DELETE HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies /f
 REG DELETE HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies /f
