@@ -7,7 +7,7 @@ This is meant as a troubleshooting tool, and using it on a regular basis may ind
 
 # Usage
 
-1. Under an account with local administrator privileges, right-click and run as Admnistrator. 
+1. Under an account with local administrator privileges, right-click and run as Administrator. 
 2. After the first reboot performed by the script, reboot again to have all policies properly applied.
 
 # Limitations
